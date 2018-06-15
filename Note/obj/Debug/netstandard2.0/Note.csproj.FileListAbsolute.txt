@@ -1,0 +1,23 @@
+/Users/karolinakawalec/Projects/Note/Note/bin/Debug/netstandard2.0/Note.deps.json
+/Users/karolinakawalec/Projects/Note/Note/bin/Debug/netstandard2.0/Note.dll
+/Users/karolinakawalec/Projects/Note/Note/bin/Debug/netstandard2.0/Note.pdb
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.csprojResolveAssemblyReference.cache
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.csproj.CoreCompileInputs.cache
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.AssemblyInfoInputs.cache
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.AssemblyInfo.cs
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.dll
+/Users/karolinakawalec/Projects/Note/Note/obj/Debug/netstandard2.0/Note.pdb
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\bin\Debug\netstandard2.0\Note.deps.json
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\bin\Debug\netstandard2.0\Note.dll
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\bin\Debug\netstandard2.0\Note.pdb
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.csproj.CoreCompileInputs.cache
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.AssemblyInfoInputs.cache
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.AssemblyInfo.cs
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.dll
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.pdb
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Note.csprojAssemblyReference.cache
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\App.xaml.g.cs
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\MainPage.xaml.g.cs
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Views\NotePage.xaml.g.cs
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\Views\StartPage.xaml.g.cs
+F:\Users\ibas\Downloads\Compressed\Ibasy szkola-20180615T194047Z-001\Ibasy szkola\Note\Note\obj\Debug\netstandard2.0\XamlC.stamp

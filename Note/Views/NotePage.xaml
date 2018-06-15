@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms" xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" x:Class="Note.NotePage">
+   <StackLayout Margin="20" VerticalOptions="StartAndExpand">
+        <Label Text="Note" />
+        <Entry Text="{Binding Title}" />
+        <Entry Text="{Binding Content}" />
+        <Button Text="Save" Clicked="OnNoteSave" />
+        <Button Text="Cancel" Clicked="OnCancel" />
+        <Button Text="Delete" Clicked="OnNoteDelete" />
+    </StackLayout>
+</ContentPage>
